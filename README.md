@@ -1,7 +1,10 @@
 # Post-Genomics
 #project
-#num_samples.py -> gets the number of patients and the files each patient has
-#gene_name_list.py -> returns the name of coding genes for each tumor and normal unique samples
 
 #AUTHOR CONTRIBUTIONS
-#Luis Gracia Mazuca -> num_samples.py, gene_name_list.py
+
+#Luisa Gracia Mazuca -> nsSNVs.py, fathmm.py, snpNexus.py, test.py, section6.py
+
+#Luis Gracia Mazuca -> num_samples.py, gene_name_list.py, Section_3.py, section_4.py
+
+#Michael Orosz -> summary statistics.py
